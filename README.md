@@ -1,8 +1,11 @@
 <h1 align="center">clibing clibing</h1>
-<h3 align="center">Sharp tools make good work</h3>
+<h3 align="center">Sharp tools make good work. </h3>
+
+<h3 align="left">Blog: <a href="https://clibing.com" target="_blank">clibing.com</></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+wmsjhappy@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
